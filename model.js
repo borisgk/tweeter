@@ -62,7 +62,6 @@ const Tweeter = function () {
         })
         const commentIndex = post.comments.findIndex(obj => obj.id === commentID)
         post.comments.splice(commentIndex, 1)
-        console.log(post.comments)
     }
 
     return {
