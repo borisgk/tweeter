@@ -1,0 +1,16 @@
+{
+  "name": "tweeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/balthazar": "^5.0.5",
+    "get-google-fonts": "^1.2.2",
+    "jquery": "^3.7.0"
+  }
+}
